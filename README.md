@@ -16,12 +16,6 @@
   <img src="./github-metrics-isometric.svg" alt="3D isometric commit calendar" width="500"/>
 </p>
 
-## 📊 Full Metrics
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" width="500"/>
-</p>
-
 ## 💻 Terminal Stats
 
 <p align="center">
