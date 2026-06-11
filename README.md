@@ -9,4 +9,5 @@ I love Formula 1 and Algorithmic trading<br><br>Oh yeah.... CS is cool ig
 ---
 [![](https://komarev.com/ghpvc/?username=ayaangazali&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
