@@ -36,11 +36,11 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
 
-          # Achievements - badge wall
+          # Achievements - compact badge wall
           plugin_achievements: yes
-          plugin_achievements_threshold: C
+          plugin_achievements_threshold: B
           plugin_achievements_secrets: yes
-          plugin_achievements_display: detailed
+          plugin_achievements_display: compact
           plugin_achievements_limit: 0
 
           # Topics mastered
@@ -49,46 +49,21 @@ jobs:
           plugin_topics_mode: icons
           plugin_topics_sort: stars
 
-          # Lines of code changed
-          plugin_lines: yes
-          plugin_lines_sections: base
-          plugin_lines_repositories_limit: 4
-
           # Recent stars
           plugin_stars: yes
           plugin_stars_limit: 4
 
-          # Notable contributions
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_repositories: yes
-
-          # Followup on issues/PRs
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
-          plugin_followup_indepth: yes
-
-          # Reactions on issues/PRs
-          plugin_reactions: yes
-          plugin_reactions_limit: 200
-          plugin_reactions_details: percentage
-
-          # Activity
+          # Activity (limited to keep fast)
           plugin_activity: yes
           plugin_activity_limit: 5
-          plugin_activity_load: 200
+          plugin_activity_load: 100
           plugin_activity_days: 14
-          plugin_activity_filter: all
+          plugin_activity_filter: issue, pr, push, release
 
           # People (followers/following)
           plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_types: followers, following, sponsors
-
-          # Repositories featured
-          plugin_repositories: yes
-          plugin_repositories_featured: ayaangazali/ayaangazali
-          plugin_repositories_pinned: 6
+          plugin_people_limit: 16
+          plugin_people_types: followers, following
 
           # Introduction (bio block)
           plugin_introduction: yes
