@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me :
 I love Formula 1 and Algorithmic trading<br><br>Oh yeah.... CS is cool ig
 
 
