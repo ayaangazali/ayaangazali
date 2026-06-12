@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I'm Ayaan 👋</h1>
+<h1 align="center">Hii, I'm Ayaan 👋</h1>
 <p align="center">
-  <em>Formula 1 obsessed · Algorithmic trading · Building stuff that probably shouldn't work but does</em>
+  <em>Biggest Formula 1 fan · Algorithmic trading · Hackathons</em>
 </p>
 
 <p align="center">
@@ -33,12 +33,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayaangazali&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="140"/>
   <img src="https://github-profile-trophy.vercel.app/?username=ayaangazali&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=6" height="140"/>
 </p>
-
-## 🏎️ What I'm into
-
-- **F1** — strategy, telemetry, tire deg
-- **Algorithmic trading** — backtest engines, signal generation, execution
-- **Hackathons** — shipping fast, breaking faster
 
 <p align="center">
   <sub><em>Auto-update daily · powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></em></sub>
