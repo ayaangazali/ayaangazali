@@ -1,4 +1,4 @@
-<h1 align="center">Hii, I'm Ayaan 👋</h1>
+<h1 align="center">Hii ! I'm Ayaan  : )</h1>
 <p align="center">
   <em>Biggest Formula 1 fan · Algorithmic trading · Hackathons</em>
 </p>
