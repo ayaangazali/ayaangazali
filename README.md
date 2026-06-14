@@ -4,25 +4,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ayaangazali"><img src="https://komarev.com/ghpvc/?username=ayaangazali&style=flat-square&color=brightgreen" alt="profile views"/></a>
-  <img src="https://img.shields.io/github/followers/ayaangazali?label=Followers&style=flat-square&color=blue" alt="followers"/>
-</p>
+  <a href="https://github.com/ayaangazali"><img src="https://komarev.com/ghpvc/?username=ayaangazali&style=flat-square&color=brightgreen" alt="profile views"/></a></p>
 
 ---
 
-## 🧊 3D Commit Calendar
+## Commit Calendar
 
 <p align="center">
   <img src="./github-metrics-isometric.svg" alt="3D isometric commit calendar" width="500"/>
 </p>
 
-## 💻 Terminal Stats
 
-<p align="center">
-  <img src="./github-metrics-terminal.svg" alt="Terminal stats" width="500"/>
-</p>
-
-## 🔥 Classic Stats
+## Classic Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=ayaangazali&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="140"/>
