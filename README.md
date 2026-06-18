@@ -17,6 +17,12 @@
 
 ---
 
+## About Me
+
+- 🏎️ Biggest **Formula 1** fan — lights out and away we go
+- 📈 Building **algorithmic trading** strategies
+- 🛠️ Always shipping something at **hackathons**
+
 ## Commit Calendar
 
 <p align="center">
