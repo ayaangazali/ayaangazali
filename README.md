@@ -23,6 +23,10 @@
 - 📈 Building **algorithmic trading** strategies
 - 🛠️ Always shipping something at **hackathons**
 
+## Formula 1
+
+Race weekends are sacred. When I'm not coding I'm trackside in spirit — following every lap, strategy call, and pit stop.
+
 ## Commit Calendar
 
 <p align="center">
