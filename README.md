@@ -27,6 +27,10 @@
 
 Race weekends are sacred. When I'm not coding I'm trackside in spirit — following every lap, strategy call, and pit stop.
 
+## Algorithmic Trading
+
+Exploring systematic strategies — backtesting, signal research, and market microstructure. Python + Pandas is my lab.
+
 ## Commit Calendar
 
 <p align="center">
