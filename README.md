@@ -31,6 +31,10 @@ Race weekends are sacred. When I'm not coding I'm trackside in spirit — follow
 
 Exploring systematic strategies — backtesting, signal research, and market microstructure. Python + Pandas is my lab.
 
+## Hackathons
+
+Caffeine, last-minute commits, and demos that *almost* work. Always down to build something in 36 hours.
+
 ## Commit Calendar
 
 <p align="center">
