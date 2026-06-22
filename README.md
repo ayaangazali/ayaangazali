@@ -55,6 +55,15 @@ Caffeine, last-minute commits, and demos that *almost* work. Always down to buil
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaangazali&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
+## Activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayaangazali&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayaangazali&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
 
 
 <p align="center">
