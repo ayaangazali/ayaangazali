@@ -64,7 +64,9 @@ Caffeine, last-minute commits, and demos that *almost* work. Always down to buil
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayaangazali&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
 </p>
 
+---
 
+<p align="center"><em>"Simplify, then add lightness." — Colin Chapman</em></p>
 
 <p align="center">
   <sub><em>Auto-update daily · powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></em></sub>
