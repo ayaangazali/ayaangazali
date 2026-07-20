@@ -2,7 +2,7 @@
 <p align="center">
   <em>Biggest Formula 1 fan · Algorithmic trading · Hackathons</em>
 </p>
-<p align="center">Welcome to my corner of GitHub — building, racing, and shipping.</p>
+
 
 ## Stats
 
