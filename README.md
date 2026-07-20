@@ -14,8 +14,3 @@
 
 ---
 
-<p align="center"><em>"Simplify, then add lightness." — Colin Chapman</em></p>
-
-<p align="center">
-  <sub><em>Auto-update daily · powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></em></sub>
-</p>
