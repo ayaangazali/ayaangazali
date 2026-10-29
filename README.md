@@ -13,7 +13,7 @@
 
 ## Things I've built
 
-| | |
+| Project | What it is |
 |---|---|
 | **[eyes](https://github.com/ayaangazali/eyes)**<br/>[eyes.pictures](https://eyes.pictures) | An MCP server that lets an AI agent pay a nearby person a few dollars for a live, GPS-checked photo of something in the real world. Built with [@i098](https://github.com/i098) and [@ShryukGrandhi](https://github.com/ShryukGrandhi) at YC's *Make Something Agents Want* hackathon.<br/><sub>TypeScript · Cloudflare Workers · Stripe Connect · Expo</sub> |
 | **[fly-around-sf](https://github.com/ayaangazali/fly-around-sf)**<br/>[play it](https://ayaangazali.github.io/fly-around-sf/) | Fly a drone over a 3D San Francisco built from all 172,368 of the city's building footprints.<br/><sub>Three.js · WebGL · Vite</sub> |
@@ -51,10 +51,6 @@ I spend a lot of my time fixing bugs in AI infrastructure. Merged pull requests,
 </p>
 
 ## Activity
-
-<p align="center">
-  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com/?user=ayaangazali&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayaangazali/ayaangazali/output/github-snake-dark.svg"/>
